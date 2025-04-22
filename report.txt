@@ -1,0 +1,10 @@
+biyry, Math_score: 16, English_score: 2, -->Failed, HighSchoolGrade: 3, Scholarship: No
+xvstp, Math_score: 13, English_score: 5, -->Failed, HighSchoolGrade: 1, Scholarship: No
+vpljl, Math_score: 10, English_score: 8, -->Failed, HighSchoolGrade: 1, Scholarship: Yes
+mwkfo, Math_score: 2, English_score: 13, -->Failed, HighSchoolGrade: 3, Scholarship: No
+ugshr, Math_score: 20, English_score: 16, --> Passed, HighSchoolGrade: 3, Scholarship: No
+ljkcq, Math_score: 13, English_score: 1, -->Failed, HighSchoolGrade: 2, Scholarship: Yes
+jpgcf, Math_score: 15, English_score: 18, --> Passed, HighSchoolGrade: 3, Scholarship: Yes
+bswbh, Math_score: 13, English_score: 12, --> Passed, HighSchoolGrade: 2, Scholarship: No
+jilqd, Math_score: 9, English_score: 17, --> Passed, HighSchoolGrade: 3, Scholarship: No
+bfzwy, Math_score: 8, English_score: 9, -->Failed, HighSchoolGrade: 3, Scholarship: Yes
